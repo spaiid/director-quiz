@@ -1,0 +1,12 @@
+.AddDirectorForm {
+    width: 80%;
+    margin: 50px 10%;
+}
+
+.AddDirectorForm-input {
+    margin-bottom: 20px;
+}
+
+.AddDirectorForm-input > label {
+    display: block;
+}
